@@ -44,11 +44,14 @@ python -m venv venv/
 
 - Windows
  
-```powershell
-source .\venv\Scripts\activate
+```bash
+# In cmd.exe
+venv\Scripts\activate.bat
+# In PowerShell
+venv\Scripts\Activate.ps1
 ```
 
-- Linux / MacOS
+- Linux / MacOS / Git Bash 
 ```bash
 source ./venv/bin/activate
 ```
