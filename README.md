@@ -21,13 +21,10 @@ git clone https://github.com/kylecurtis/interactive-python.git
 
 <br>
 
-## Open the repo
-
-The recommended editor to use for this project is [Visual Studio Code](https://code.visualstudio.com/).
+## Change root directory to the repo
 
 ```bash
 cd /path/to/interactive-python
-code .
 ```
 
 <br>
@@ -68,4 +65,10 @@ pip install -r requirements.txt
 
 ## Run the notebook
 
-Now you can run the notebook in Visual Studio Code by opening the `notebook.ipynb` file and selecting the Python kernel in the venv. 
+The recommended editor to use for this project is [Visual Studio Code](https://code.visualstudio.com/).
+
+You can also use Jupyter Lab or Notebook directly in the browser:
+
+```bash
+jupyter lab
+```
