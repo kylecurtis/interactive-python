@@ -1,7 +1,15 @@
 <img src="https://github.com/kylecurtis/interactive-python/blob/main/images/python-bg.jpeg?raw=true">
 
-# interactive-python
+# Interactive Python
+
+![Static Badge](https://img.shields.io/badge/Python_Version-3.12+-yellow) ![Static Badge](https://img.shields.io/badge/Work_In_Progress-WIP-orange)
+
+<br>
+
 Interactive Jupyter notebooks for learning all things Python.
+
+[Live Preview (Non-interactive)](https://github.com/kylecurtis/interactive-python/blob/main/notebook.ipynb)
+
 
 <br>
 
