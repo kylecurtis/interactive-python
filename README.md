@@ -15,7 +15,7 @@ Interactive Jupyter notebooks for learning all things Python.
 
 ## Requirements
 
-- Python (3.12 or higher)
+- [Python (3.12 or higher)](https://www.python.org/downloads/)
 
 <br>
 
