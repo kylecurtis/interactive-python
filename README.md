@@ -1,6 +1,6 @@
 <img src="https://github.com/kylecurtis/interactive-python/blob/main/images/python-bg.jpeg?raw=true">
 
-# Interactive Python
+# Interactive Python Notebook
 
 ![Static Badge](https://img.shields.io/badge/Python_Version-3.12+-yellow) ![Static Badge](https://img.shields.io/badge/Work_In_Progress-WIP-orange)
 
