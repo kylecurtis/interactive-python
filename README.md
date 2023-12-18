@@ -8,7 +8,7 @@
 
 Interactive Jupyter notebooks for learning all things Python.
 
-[Live Preview (Non-interactive)](https://github.com/kylecurtis/interactive-python/blob/main/notebook.ipynb)
+[Non-interactive Preview (Web Browser Only)](https://github.com/kylecurtis/interactive-python/blob/main/notebook.ipynb)
 
 
 <br>
