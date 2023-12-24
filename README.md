@@ -10,7 +10,7 @@ Interactive Jupyter notebooks for learning all things Python.
 
 <br>
 
-<img src="https://github.com/kylecurtis/interactive-python/blob/main/images/colab.png?raw=true">
+<img src="https://github.com/kylecurtis/interactive-python/blob/main/images/colab.png?raw=true" width="150" height="100">
 
 [Live Preview (Google Colab)](https://colab.research.google.com/github/kylecurtis/interactive-python/blob/main/notebook.ipynb)
 
