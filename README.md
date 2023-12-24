@@ -8,20 +8,25 @@
 
 Interactive Jupyter notebooks for learning all things Python.
 
-[Non-interactive Preview (Web Browser Only)](https://github.com/kylecurtis/interactive-python/blob/main/notebook.ipynb)
+<br>
 
+<img src="https://github.com/kylecurtis/interactive-python/blob/main/images/colab.png?raw=true">
+
+[Live Preview (Google Colab)](https://colab.research.google.com/github/kylecurtis/interactive-python/blob/main/notebook.ipynb)
 
 <br>
 
-## Requirements
+## Setup (Locally)
+
+<br>
+
+#### Requirements
 
 - [Python (3.12 or higher)](https://www.python.org/downloads/)
 
 <br>
 
-## Setup
-
-## Clone the repo
+#### Clone the repo
 
 ```bash
 git clone https://github.com/kylecurtis/interactive-python.git
@@ -29,7 +34,7 @@ git clone https://github.com/kylecurtis/interactive-python.git
 
 <br>
 
-## Change root directory to the repo
+#### Change root directory to the repo
 
 ```bash
 cd /path/to/interactive-python
@@ -37,7 +42,7 @@ cd /path/to/interactive-python
 
 <br>
 
-## Create the venv
+#### Create the venv
 
 ```bash
 python -m venv venv/
@@ -45,7 +50,7 @@ python -m venv venv/
 
 <br>
 
-## Source the venv:
+#### Source the venv:
 
 - Windows
  
@@ -63,7 +68,7 @@ source ./venv/bin/activate
 
 <br>
 
-## Install dependencies
+#### Install dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -71,9 +76,9 @@ pip install -r requirements.txt
 
 <br>
 
-## Run the notebook
+#### Run the notebook
 
-Because of an [issue](https://github.com/kylecurtis/interactive-python/issues/1) regarding the table of contents navigation, the recommended way to view the notebook is with the browser by running jupyter lab or notebook in the terminal:
+You can run the notebook by running jupyter lab or notebook in a terminal:
 
 ```bash
 jupyter lab
