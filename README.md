@@ -73,9 +73,7 @@ pip install -r requirements.txt
 
 ## Run the notebook
 
-The recommended editor to use for this project is [Visual Studio Code](https://code.visualstudio.com/).
-
-You can also use Jupyter Lab or Notebook directly in the browser:
+Because of an [issue](https://github.com/kylecurtis/interactive-python/issues/1) regarding the table of contents navigation, the recommended way to view the notebook is with the browser by running jupyter lab or notebook in the terminal:
 
 ```bash
 jupyter lab
