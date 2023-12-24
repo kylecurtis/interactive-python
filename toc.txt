@@ -1,0 +1,206 @@
+- Introduction to Python
+
+  - Overview of Python
+  - [Python Keywords](#keywords)
+  - [Hello, World!](#hello-world)
+
+- Python Basics
+  - Variables
+    - [Declaring & Assigning Variables](#declaring-variables)
+    - [Naming Conventions](#naming-conventions)
+    - [Dynamic Typing](#dynamic-typing)
+    - [Mutability](#mutability)
+    - [Scope & Lifetime](#scope-and-lifetime)
+    - [Global & Nonlocal](#global-and-nonlocal)
+    - [Deleting Variables](#delete-variable)
+  - Data Types
+    - [Integer (int)](#integers)
+      - [Literals](#int-literals)
+      - [Range and Overflow](#int-range-and-overflow)
+      - [Arithmetic Operations](#int-arithmetic)
+      - [Conversion and Casting](#int-conversion-and-casting)
+      - [Integer Functions](#int-functions)
+      - [Binary, Octal, and Hexadecimal Function](#binary-octal-and-hex-functions)
+    - Float (float)
+        - [Declaring Floats](#declare-floats)
+        - [Precision and Representation](#float-precision)
+        - [Arithmetic Operations with Floats](#float-arithmetic)
+        - [Float Conversion and Casting](#float-conversion)
+        - [Float Functions](#float-functions)
+        - [Comparing Floats](#comparing-floats)
+        - [Decimal Module](#decimal-module)
+        - [Why Use The Decimal Module?](#because-its-accurate)
+        - [Using the Decimal Module](#using-decimal)
+        - [Adjusting Precision with getcontext()](#getcontext)
+        - [Decimal Rounding Modes](#decimal-rounding)
+        - [Changing Rounding in Context](#context-rounding)
+        - [Using Local Context](#local-context)
+        - [Enabling Traps](#traps)
+    - Bool (bool)
+    - String (str)
+    - None (NoneType)
+    - Bytes (bytes)
+    - Bytearray (bytearray)
+    - MemoryView (memoryview)
+    - Complex (complex)
+    - Type Conversion
+  - Operators
+    - Arithmetic Operators
+    - Assignment Operators
+    - Comparison Operators
+    - Logical Operators
+    - Bitwise Operators
+    - Membership Operators
+    - Identity Operators
+    - Operator Precedence
+  - Input and Output
+    - print() Function
+    - input() Function
+    - Formatting Output
+  - Control Flow
+    - if, elif, and else Statements
+    - for Loops
+    - while Loops
+    - break and continue
+    - Pass Statement
+    - Loop Else Clause
+
+#### Data Structures
+
+- Lists
+  - Creating Lists
+  - Accessing and Modifying Lists
+  - List Methods and Functions
+  - List Comprehensions
+- Tuples
+  - Creating and Accessing Tuples
+  - Immutability of Tuples
+  - Tuple Methods
+- Dictionaries
+  - Creating and Using Dictionaries
+  - Dictionary Methods and Operations
+  - Dictionary Comprehensions
+- Sets
+  - Creating Sets
+  - Set Operations and Methods
+- Strings
+  - String Manipulation and Operations
+  - String Formatting
+  - Regular Expressions
+- Other Data Structures
+  - Collections Module (Counter, defaultdict, OrderedDict)
+  - Itertools Module
+  - Generators and Iterators
+  - Data Classes (Python 3.7+)
+
+#### Functions and Modules
+
+- Defining Functions
+  - Function Arguments and Return Values
+  - Default Arguments and Keyword Arguments
+  - Variable-length Arguments (\*args and \*\*kwargs)
+  - Anonymous (Lambda) Functions
+  - Function Documentation (Docstrings)
+- Scope and Namespace
+  - Local, Nonlocal, and Global Variables
+  - Understanding Namespaces
+- Modules and Packages
+  - Creating Modules
+  - Importing Modules
+  - Creating Packages
+  - Module Search Path
+- Error Handling and Exceptions
+  - Basic Exception Handling (try, except)
+  - Multiple Exception Handling
+  - Custom Exceptions
+  - The finally Block
+- File Handling
+  - Reading and Writing Files
+  - Working with File Paths
+  - File Iteration and Manipulation
+  - Context Managers for File Operations
+
+#### Advanced Python Concepts
+
+- Object-Oriented Programming (OOP)
+  - Defining Classes and Objects
+  - Inheritance and Polymorphism
+  - Encapsulation and Abstraction
+  - Special (Magic) Methods
+  - Class and Static Methods
+- Decorators
+  - Understanding Decorators
+  - Function Decorators
+  - Class Decorators
+- Iterators and Generators
+  - Creating Iterators
+  - Creating Generators
+  - Generator Expressions
+- Context Managers
+  - Understanding Context Managers
+  - Implementing Context Managers
+- Metaprogramming
+  - Understanding Metaclasses
+  - Creating Metaclasses
+- Concurrency and Parallelism
+  - Threading
+  - Multiprocessing
+  - Asyncio and Asynchronous Programming
+- Networking and Internet
+  - Socket Programming
+  - Web Clients and Servers
+  - Working with APIs
+
+#### 6. Python Standard Library
+
+- Overview of the Standard Library
+- Working with Text (re, textwrap, etc.)
+- Data Compression and Archiving (zipfile, gzip, etc.)
+- File and Directory Access (os, shutil, etc.)
+- Data Persistence (pickle, dbm, etc.)
+- Data Manipulation (csv, json, xml, etc.)
+- Cryptographic Services (hashlib, hmac, etc.)
+- Operating System Services (os, sys, platform, etc.)
+- Internet Data Handling (urllib, http, smtplib, etc.)
+- Structured Markup Processing Tools (html, xml, etc.)
+- Internet Protocols and Support (http, ftplib, socket, etc.)
+- Multimedia Services (audio, image, colorsys, etc.)
+- Internationalization and Localization (locale, gettext, etc.)
+- Program Frameworks (cmd, tkinter, etc.)
+- Graphical User Interfaces (tkinter, etc.)
+- Development Tools (debugging, profiling, etc.)
+- Runtime Features (sys, os, time, argparse, etc.)
+
+#### Debugging, Testing, and Profiling
+
+- Debugging Techniques
+  - Using the Python Debugger (pdb)
+  - Debugging with IDEs
+- Writing and Running Tests
+  - The unittest Framework
+  - pytest Framework
+- Profiling and Optimizing Python Code
+  - Profiling with cProfile
+  - Memory Profiling
+  - Optimizing Python Code
+
+#### Python in Practice
+
+- Best Practices in Python
+  - Writing Pythonic Code
+  - Code Style and PEP 8
+  - Code Reviews and Refactoring
+- Advanced Topics in Python
+  - Dynamic Typing and Static Analysis
+  - Python and Machine Learning
+  - Scripting with Python
+- Exploring Python's Future
+  - Upcoming Features and Enhancements
+  - The Evolution of Python
+
+#### Appendices
+
+- Python Resources and Community
+- Python Cheatsheets and Quick References
+- Glossary of Python Terms
+- Index
