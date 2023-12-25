@@ -6,7 +6,7 @@
 
 <br>
 
-Interactive Jupyter notebooks for learning all things Python.
+Interactive Jupyter notebooks for learning the modern Python programming language. 
 
 <br>
 
