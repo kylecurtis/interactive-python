@@ -2,11 +2,12 @@
 
 # Interactive Python Notebook
 
-![Static Badge](https://img.shields.io/badge/Python_Version-3.12+-yellow) ![Static Badge](https://img.shields.io/badge/Work_In_Progress-WIP-orange)
-
 <br>
 
 Interactive Jupyter notebooks for learning the modern Python programming language. 
+
+
+![Static Badge](https://img.shields.io/badge/Python_Version-3.12+-yellow) ![Static Badge](https://img.shields.io/badge/Work_In_Progress-WIP-orange)
 
 <br>
 
