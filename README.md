@@ -4,7 +4,7 @@
 
 <br>
 
- Interactive reference guide for the modern-day Python programming language 🐍.
+ An interactive reference guide for the modern-day Python programming language 🐍.
 
 
 ![Static Badge](https://img.shields.io/badge/Python_Version-3.12+-yellow) ![Static Badge](https://img.shields.io/badge/Work_In_Progress-WIP-orange)
