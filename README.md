@@ -1,7 +1,6 @@
 <img src="https://github.com/kylecurtis/interactive-python/blob/main/images/python-bg.jpeg?raw=true">
 
-# Interactive Python
-
+# Interactive Python (Notebook)
 <br>
 
  An interactive reference guide for the modern-day Python programming language 🐍.
