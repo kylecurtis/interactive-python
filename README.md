@@ -1,6 +1,6 @@
 <img src="https://github.com/kylecurtis/interactive-python/blob/main/images/python-bg.jpeg?raw=true">
 
-# Interactive Python Notebook
+# Interactive Python
 
 <br>
 
