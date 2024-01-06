@@ -12,7 +12,7 @@
 
 ## Live Preview (Google Colab)
 
-[Live Preview](https://colab.research.google.com/github/kylecurtis/interactive-python/blob/main/notebook.ipynb)
+ [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kylecurtis/interactive-python/blob/main/notebook.ipynb)
 
 <br>
 
